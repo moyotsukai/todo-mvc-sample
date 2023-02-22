@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var count: Int = 0
+    var count: Int = 100
 
     override func viewDidLoad() {
         super.viewDidLoad()
